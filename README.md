@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srikanthpasnuru
-- 👀 I’m interested in software technologies
+- 👀 I’m interested in software Development
 - 🌱 I’m currently learning Python,Node.js,React.js
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 Reach me on srikanthpasunuru@gmail.com
