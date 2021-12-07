@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikanthpasnuru
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python,Node.js,React.js
+- 🌱 I’m currently learning HTML,CSS3,SQLite Python,Node.js,React.js
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 Reach me on srikanthpasunuru@gmail.com
 
