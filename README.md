@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srikanthpasnuru
-- 👀 I’m a Software Developer
+- 👀 Currently Working As A Software Developer
 - 🌱 Automation Engineer | Python | Java | Selenium | AI Enthusiast
 - 📫 Reach me on srikanthpasunuru@gmail.com
 
